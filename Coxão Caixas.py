@@ -55,7 +55,7 @@ def Prices():
   global clientes; global faturamento;global pagar
   global entrada; global botao1; global botao2; global botao3
 
-  plus = int(entrada.get())
+  plus = float(entrada.get())
   moneyClient = moneyClient + plus
   pagar['text']= 'VALOR A PAGAR: R$%.2f' %(moneyClient)
   entrada.delete(0,'end')

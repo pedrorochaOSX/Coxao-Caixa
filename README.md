@@ -1,3 +1,2 @@
 # Coxao-Caixa
-Desktop App simples escrito em Python utilizando a biblioteca Tkinter, sua função é simular um caixa de loja que soma e armazena a quantidade de clientes 
-atendidos e o faturamento enquanto o App estiver aberto
+This Desktop App made using the Tkinter Python library runs like a store check out, it stores the number of custumers and the billing.
